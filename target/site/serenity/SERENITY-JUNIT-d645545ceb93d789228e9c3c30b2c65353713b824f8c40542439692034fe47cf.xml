@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Automation Practice commerce" skipped="0" tests="3" time="43.59" timestamp="2022-03-26 04:32:19"><testcase name="User selects a product"/><testcase name="User adds product to shopping cart"/><testcase name="User adds product to shopping cart and goes to checkout"/></testsuite>
