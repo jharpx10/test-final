@@ -4,7 +4,7 @@
   <system-out><![CDATA[
 3 Scenarios (?[32m3 passed?[0m)
 12 Steps (?[32m12 passed?[0m)
-0m47,276s
+1m18,324s
 
 ]]></system-out>
   <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
