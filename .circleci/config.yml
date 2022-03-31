@@ -10,4 +10,6 @@ jobs:
 
     steps:
       - checkout
+      - name: chmod permissions
+          command: chmod +x ./gradlew
       - run: ./gradlew clean build
