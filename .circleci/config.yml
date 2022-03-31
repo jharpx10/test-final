@@ -5,9 +5,6 @@ jobs:
     docker:
       - image: cimg/openjdk:11.0.12
 
-    environment:
-      JVM_OPTS: -Xmx3200m
-
     steps:
       - checkout
       - run: gradle clean build -x test
