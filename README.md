@@ -19,6 +19,8 @@ ScreenPlay es un patrón de diseño para automatización de calidad y su comport
 
 CASOS DE PRUEBA:
 
-Selección de un producto.
-Agregar productos al carrito de compra.
-Ingresar a la pasarela de pagos, luego de haber seleccionado y agregado productos al carrito de compras.
+1. Selección de un producto.
+
+2. Agregar productos al carrito de compra.
+
+3. Ingresar a la pasarela de pagos, luego de haber seleccionado y agregado productos al carrito de compras.
