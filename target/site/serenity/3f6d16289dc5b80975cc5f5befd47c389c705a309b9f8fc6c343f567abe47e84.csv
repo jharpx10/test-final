@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Automation Practice commerce","User selects a product","SUCCESS","2022-03-31T12:31:57.8638334-05:00[America/Bogota]","0.0","17.89"
-"Automation Practice commerce","User adds product to shopping cart","SUCCESS","2022-03-31T12:32:16.8296376-05:00[America/Bogota]","0.0","35.93"
-"Automation Practice commerce","User adds product to shopping cart and goes to checkout","SUCCESS","2022-03-31T12:32:53.6390726-05:00[America/Bogota]","0.0","21.4"
+"Automation Practice commerce","User selects a product","SUCCESS","2022-03-31T18:02:08.5627534-05:00[America/Bogota]","0.0","16.91"
+"Automation Practice commerce","User adds product to shopping cart","SUCCESS","2022-03-31T18:02:26.4392864-05:00[America/Bogota]","0.0","21.68"
+"Automation Practice commerce","User adds product to shopping cart and goes to checkout","SUCCESS","2022-03-31T18:02:48.9816312-05:00[America/Bogota]","0.0","16.83"

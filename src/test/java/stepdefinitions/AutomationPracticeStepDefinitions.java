@@ -63,7 +63,7 @@ public class AutomationPracticeStepDefinitions {
     }
 
 
-    @Then("^user will see successfull message$")
+    @Then("^user will see successful message$")
     public void userWillSeeSuccessfullMessage() {
         OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(ValidateTheSuccessful.message(),
                 Matchers.equalTo("Product successfully added to your shopping cart")).orComplainWith(IncorrectSuccessfulMessageException.class,
