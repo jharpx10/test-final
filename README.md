@@ -15,3 +15,10 @@ HERRAMIENTAS:
 El proyecto de pruebas fue realizado bajo la estructura de Screenplay, la cual es una librería de código abierto que ayuda a escribir pruebas de aceptación automatizadas de mayor calidad y de manera más eficiente.
 
 ScreenPlay es un patrón de diseño para automatización de calidad y su comportamiento gira en torno a la metodología de desarrollo Behaviour Driven Development (BDD).
+
+
+CASOS DE PRUEBA:
+
+Selección de un producto.
+Agregar productos al carrito de compra.
+Ingresar a la pasarela de pagos, luego de haber seleccionado y agregado productos al carrito de compras.
